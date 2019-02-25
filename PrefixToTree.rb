@@ -1,3 +1,5 @@
+#Author: James Bonvivere
+
 class PrefixToTree
   attr_accessor :root
 
